@@ -1,5 +1,5 @@
+import { SelectProps } from "../types/InputComponentTypes";
 import { optionsArray } from "../utils/data";
-import { SelectProps } from "../types/SelectComponentTypes";
 
 export const SelectBox = (props: SelectProps) => {
 
